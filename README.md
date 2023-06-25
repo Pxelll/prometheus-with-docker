@@ -11,3 +11,6 @@ requisitos:
     - Docker e Docker compose
     - Java JDK 1.8
     - Postman (para testar os logins e as matricas)
+
+PROJETO JAVA IMPLEMENTANDO O PROMETHEUS PARA VISUALIZACACAO DE METRICAS
+Rodar o docker compose para subir o projeto
