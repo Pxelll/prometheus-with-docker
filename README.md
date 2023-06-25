@@ -1,4 +1,4 @@
-# prometheus with grafana
+# prometheus
 ------------------ ALURA ----------------------
 
 comandos uteis:
